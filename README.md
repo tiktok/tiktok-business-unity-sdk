@@ -3,9 +3,6 @@
 
 # About TikTok App Events SDK for Unity
 
-> [!CAUTION]
-> The TikTok App Events SDK for Unity is in closed beta, and developer details including integration documentation are available to closed beta testers only. Reach out to your TikTok sales representative if you would like to participate in testing.
-
 The TikTok App Events SDK for Unity consists of a Unity package containing both Android and iOS native App Events SDK frameworks, and provides a C# interface directly in Unity to configure and call SDK APIs.
 
 The Android and iOS native frameworks enable you to transmit app events, such as Installs, Add to Cart, or Purchases, directly from your mobile app to TikTok. After events are shared, you can view event data in TikTok Events Manager, create audiences for targeting, and optimize your campaigns based on the app events.
